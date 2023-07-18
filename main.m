@@ -1,0 +1,1 @@
+burgers_galerkin(9, 2);
